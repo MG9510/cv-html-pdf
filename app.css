@@ -1,0 +1,58 @@
+.flex-elem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block-elem {
+    display: block;
+    margin: auto;
+
+}
+
+.intro-div {
+    background-color: black;
+    color: white;
+}
+
+.social-media-div {
+    background-color: rgb(45,55,75);
+    color: white;
+}
+
+.content-div {
+    background-color: whitesmoke;
+    margin: 5px;
+}
+
+.profile-pic {
+    width: 90px;
+    height: 90px;
+    border-radius: 10%;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.sub-header {
+    font-size: 26px;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.sub-title {
+    font-size: 20px;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.sub-text {
+    font-size: 16px;
+}
